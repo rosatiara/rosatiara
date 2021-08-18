@@ -1,5 +1,6 @@
 ### Hi there 👋
-![Rosa Tiara github stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&hide_border=true)
+![Rosa Tiara github stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&hide_border=true_theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&theme=tokyonight)
 <!--
 
 
