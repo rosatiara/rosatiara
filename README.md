@@ -14,6 +14,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
-![](https://komarev.com/ghpvc/?username=rosatiara&color=blue)
+![](https://komarev.com/ghpvc/?username=rosatiara&color=gray)
 
 ![](https://hit.yhype.me/github/profile?user_id=55318172)
