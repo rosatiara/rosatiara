@@ -1,7 +1,7 @@
 <!-- ### Hello there! 👋 -->
 ![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&theme=gotham)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=react&hide=php&bg_color=222222)](https://github.com/rosatiara)
 <!--
 
 <!-- Here are some ideas to get you started:
