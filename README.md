@@ -1,5 +1,5 @@
 <!-- ### Hello there! 👋 -->
-![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham)
+![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham&hide=php&bg_color=222222)](https://github.com/rosatiara)
 <!--
