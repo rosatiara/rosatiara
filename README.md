@@ -1,7 +1,7 @@
 <!-- ### Hello there! 👋 -->
 ![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=222222)](https://github.com/rosatiara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117)](https://github.com/rosatiara)
 <!--
 
 <!-- Here are some ideas to get you started:
