@@ -8,7 +8,7 @@ I'm an electrical engineering student who really loves programming and making pr
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs">
 </a>
 <a href="https://github.com/rosatiara/rosatiara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117)](https://github.com/rosatiara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117">
 </a>
 
 <!-- Here are some ideas to get you started:
