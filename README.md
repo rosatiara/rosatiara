@@ -3,10 +3,13 @@
 ### Hola, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 I'm an electrical engineering student who really loves programming and making pretty things through it. Currently, I'm still learning and try to make projects with JavaScript, ReactJS, and Kotlin. Looking forward for more exciting things!
 
-![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117)](https://github.com/rosatiara)
-<!--
+## Github Stats
+<a href="https://github.com/rosatiara/rosatiara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs">
+</a>
+<a href="https://github.com/rosatiara/rosatiara">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117)](https://github.com/rosatiara">
+</a>
 
 <!-- Here are some ideas to get you started:
 
