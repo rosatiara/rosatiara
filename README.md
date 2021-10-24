@@ -10,7 +10,7 @@ I'm an electrical engineering student who really loves programming and making pr
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117">
 </a>
 
-![](https://hit.yhype.me/github/profile?username=rosatiara)
+<!-- ![](https://hit.yhype.me/github/profile?username=rosatiara) -->
 <!-- Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
