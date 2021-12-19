@@ -2,7 +2,7 @@
 
 ### Hola, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 <!-- I'm an electrical engineering student who really loves programming and making things through it. Currently, I'm still learning and try to make projects with JavaScript, React, and Kotlin. Looking forward for more exciting things! -->
-<div display="flex">
+<div display="">
 <a href="https://github.com/rosatiara/rosatiara">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs">
 </a>
