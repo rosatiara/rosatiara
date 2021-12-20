@@ -4,10 +4,10 @@
 <!-- I'm an electrical engineering student who really loves programming and making things through it. Currently, I'm still learning and try to make projects with JavaScript, React, and Kotlin. Looking forward for more exciting things! -->
 <div display="flex">
 <a href="https://github.com/rosatiara/rosatiara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs">
+  <img src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs">
 </a>
 <a href="https://github.com/rosatiara/rosatiara">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117">
 </a>
 </div>
 
