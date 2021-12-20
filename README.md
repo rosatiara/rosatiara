@@ -1,6 +1,6 @@
 
 [![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&border_color=252C2A)](https://github.com/rosatiara)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham)](https://github.com/rosatiara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham&border_color=252C2A)](https://github.com/rosatiara)
 
 <!-- ![](https://hit.yhype.me/github/profile?username=rosatiara) -->
 <!-- Here are some ideas to get you started:
