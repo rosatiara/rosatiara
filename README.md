@@ -1,17 +1,6 @@
-<!-- ### Hello there! 👋 -->
 
-### Hola, there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<!-- I'm an electrical engineering student who really loves programming and making things through it. Currently, I'm still learning and try to make projects with JavaScript, React, and Kotlin. Looking forward for more exciting things! -->
-
-    
- 
-
-    <a href="https://github.com/rosatiara/rosatiara">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham&hide=php&bg_color=0D1117">
-    </a>
- </div>
-</div>
-![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs,issues)
+[![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs,issues)](https://github.com/rosatiara)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham)](https://github.com/rosatiara)
 
 <!-- ![](https://hit.yhype.me/github/profile?username=rosatiara) -->
 <!-- Here are some ideas to get you started:
