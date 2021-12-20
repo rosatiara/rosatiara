@@ -1,5 +1,5 @@
 
-[![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs,issues)](https://github.com/rosatiara)
+[![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true)](https://github.com/rosatiara)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham)](https://github.com/rosatiara)
 
 <!-- ![](https://hit.yhype.me/github/profile?username=rosatiara) -->
