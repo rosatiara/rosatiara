@@ -5,7 +5,7 @@
 <div display="flex">
  <div>
     <a href="https://github.com/rosatiara/rosatiara">
-      <img src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs&hide=issues">
+      <img src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs,issues">
     </a>
    </div>
  <div>
