@@ -5,12 +5,12 @@
 <div display="flex">
  <div>
     <a href="https://github.com/rosatiara/rosatiara">
-      <img src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=github_dark&count_private=true&hide=contribs">
+      <img src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs">
     </a>
    </div>
  <div>
     <a href="https://github.com/rosatiara/rosatiara">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=github_dark&hide=php&bg_color=0D1117">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham&hide=php&bg_color=0D1117">
     </a>
  </div>
 </div>
