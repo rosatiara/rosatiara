@@ -4,9 +4,7 @@
 <!-- I'm an electrical engineering student who really loves programming and making things through it. Currently, I'm still learning and try to make projects with JavaScript, React, and Kotlin. Looking forward for more exciting things! -->
 <div display="flex">
  <div>
-    <a href="https://github.com/rosatiara/rosatiara">
-      <img src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs,issues">
-    </a>
+    ![Rosa's GitHub stats](https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&hide=contribs,issues)
    </div>
  <div>
     <a href="https://github.com/rosatiara/rosatiara">
