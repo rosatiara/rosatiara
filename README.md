@@ -1,8 +1,11 @@
 <h3 align="center">Hello!</h3>
 <p align="center">
   <samp> 
-    I am a electrical engineering student who loves engineering, technology, design, and anything in between.
-  </samp>    
+    "Rosa is the best engineer I've ever known."
+  </samp>
+   <samp> 
+    — My mom
+  </samp>
 </p>
 
 <p align="center">
