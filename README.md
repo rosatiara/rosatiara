@@ -12,8 +12,8 @@
   <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" width="30px"/>
 </p>
 
-## My Stats
-
+<!-- ## My Stats
+ -->
 <p>
 <a href="https://github.com/rosatiara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&border_color=252C2A" />
