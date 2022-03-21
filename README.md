@@ -20,8 +20,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham&border_color=252C2A&langs_count=6" />
 </a>
 </p> 
-![Rosa's GitHub stats](https://github.com/rosatiara)
-![Top Langs](https://github.com/rosatiara)
 
 <!-- ![](https://hit.yhype.me/github/profile?username=rosatiara) -->
 <!-- Here are some ideas to get you started:
