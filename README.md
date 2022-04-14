@@ -15,13 +15,13 @@
 <!-- ## My Stats
  -->
  
- <p>
+<!--  <p>
 <a href="https://github.com/rosatiara">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rosatiara&show_icons=true&theme=gotham&count_private=true&border_color=252C2A" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rosatiara&layout=compact&theme=gotham&border_color=252C2A&langs_count=6" />
 </a>
 </p> 
-
+ -->
 
 
 <!--
