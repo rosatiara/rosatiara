@@ -34,7 +34,7 @@
     <a href="https://rosatiara.me/projects">projects</a> -
     <a href="https://dribbble.com/rosatiara">designs</a> -
     <a href="https://hackerrank.com/rosatee">hackerrank</a> -
-    <a href="https://medium.com/@rszt">medium</a> 
+    <a href="https://rosatiara.medium.com/">medium</a> 
   </samp>
 <!--       <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" width="20px"/> -->
 </p>
