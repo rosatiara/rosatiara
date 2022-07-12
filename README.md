@@ -30,6 +30,7 @@
 <!--         <img src="https://github.blog/wp-content/uploads/2018/10/46896184-b679fc80-ce30-11e8-88bf-921e9b788f7c.gif?resize=200%2C200" width="20px"/> -->
   <samp>
     <a href="https://rosatiara.me" target="_blank">website</a> -
+    <a href="https://linkedin.com/in/rosatiara/" target="_blank">linkedin</a> -
     <a href="https://rosatiara.me/blog" target="_blank">writings</a> -
     <a href="https://rosatiara.me/projects" target="_blank">projects</a> -
     <a href="https://dribbble.com/rosatiara" target="_blank">designs</a> -
